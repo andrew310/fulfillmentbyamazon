@@ -1,6 +1,6 @@
 {
   "name": "sellercentral",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "tools to compute fba fees and other from amazon seller services",
   "main": "index.js",
   "scripts": {
