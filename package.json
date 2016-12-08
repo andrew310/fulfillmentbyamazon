@@ -1,5 +1,5 @@
 {
-  "name": "sellercentral",
+  "name": "fulfillmentbyamazon",
   "version": "0.0.0",
   "description": "tools to compute fba fees and other from amazon seller services",
   "main": "index.js",
